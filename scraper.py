@@ -126,5 +126,5 @@ def generate_ai_tweets(twitter_username: str, tweets_to_scrape:int = 200, tweets
 
 
 if __name__ == "__main__":
-    generated_tweets = generate_ai_tweets(twitter_username="oskkartv", tweets_to_scrape=200, tweets_to_generate=5, epochs=25)
+    generated_tweets = generate_ai_tweets(twitter_username="eldenring", tweets_to_scrape=250, tweets_to_generate=5, epochs=25)
     print(f"List of tweets generated: {generated_tweets}")
