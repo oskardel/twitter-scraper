@@ -1,0 +1,5 @@
+{
+    "authorization": "Bearer AAAAAAAAAAAAAAAAAAAAANRILgAAAAAAnNwIzUejRCOuH5E6I8xnZz4puTs%3D1Zv7ttfk8LF81IUq16cHjhLTvJu4FA33AGWWjCpTnA",
+    "Cookie": "d_prefs=MjoxLGNvbnNlbnRfdmVyc2lvbjoyLHRleHRfdmVyc2lvbjoxMDAw; g_state={\"i_l\":0}; kdt=6Jz4zF65w8LFRULqQrF8zaIVCF1BheqHv6DJFB5D; dnt=1; twtr_pixel_opt_in=Y; lang=es; auth_token=8704477ddfc9f60f9f094c9fbc361cb560dacf20; auth_multi=\"2683043944:4e0f3d7b7ea3ca07b59736fe7cb9f77985523945\"; twid=u%3D2978193388; ads_prefs=\"HBISAAA=\"; guest_id=v1%3A171526409260766151; ct0=a28d6fe1b9adce103648e9c871da73a577ee1fc036f750121004145acce6c4794ad3da8f333b964fa2f9cbb02c5762f9bb8ec8b445d897c187fbf810c4027c0e62b670dffeeddd1d86aa129541d34f18",
+    "x-csrf-token": "a28d6fe1b9adce103648e9c871da73a577ee1fc036f750121004145acce6c4794ad3da8f333b964fa2f9cbb02c5762f9bb8ec8b445d897c187fbf810c4027c0e62b670dffeeddd1d86aa129541d34f18"
+}
